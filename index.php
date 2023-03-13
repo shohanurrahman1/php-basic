@@ -133,14 +133,19 @@
 
 		// print_r($names); //Associative array printing purpse use this
 
+		// Php Some Function
 
 		// Celling
 		// $a = 5.3;
 		// echo ceil($a);
 
 		// Floor
-		$a = 5.8;
-		echo floor($a);
+		// $a = 5.8;
+		// echo floor($a);
+
+		// Squre rote
+		// $a = 26;
+		// echo sqrt($a);
 
 
 		?>
