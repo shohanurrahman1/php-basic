@@ -147,6 +147,10 @@
 		// $a = 26;
 		// echo sqrt($a);
 
+		// Length Found
+		$name = "Shohanur Rahman Shohan";
+		echo strlen($name);
+
 
 		?>
 	</body>
