@@ -148,8 +148,12 @@
 		// echo sqrt($a);
 
 		// Length Found
+		// $name = "Shohanur Rahman Shohan";
+		// echo strlen($name);
+
+		// REVERSE STRING(Romakanto kamar) - palindrome
 		$name = "Shohanur Rahman Shohan";
-		echo strlen($name);
+		echo strrev($name);
 
 
 		?>
