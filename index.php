@@ -157,7 +157,11 @@
 
 
 		// Random Number Generator
-		echo rand(0, 9999);
+		// echo rand(0, 9999);
+
+
+		// Isset Function is to check anything, when function is true then its work. isset function not has false
+		isset(var);
 
 		?>
 	</body>
