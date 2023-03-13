@@ -152,9 +152,12 @@
 		// echo strlen($name);
 
 		// REVERSE STRING(Romakanto kamar) - palindrome
-		$name = "Shohanur Rahman Shohan";
-		echo strrev($name);
+		// $name = "Shohanur Rahman Shohan";
+		// echo strrev($name);
 
+
+		// Random Number Generator
+		echo rand(0, 9999);
 
 		?>
 	</body>
