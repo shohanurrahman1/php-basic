@@ -135,8 +135,12 @@
 
 
 		// Celling
-		$a = 5.3;
-		echo ceil($a);
+		// $a = 5.3;
+		// echo ceil($a);
+
+		// Floor
+		$a = 5.8;
+		echo floor($a);
 
 
 		?>
