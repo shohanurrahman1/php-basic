@@ -125,13 +125,18 @@
 		// }
 
 		// Associative Array Indexing
-		$names = array (
-			"f_name" => "Shohanur Rahman",
-			"l_name" => "Shohan",
-			"phone" => "01731578788"
-		);
+		// $names = array (
+		// 	"f_name" => "Shohanur Rahman",
+		// 	"l_name" => "Shohan",
+		// 	"phone" => "01731578788"
+		// );
 
-		print_r($names); //Associative array printing purpse use this
+		// print_r($names); //Associative array printing purpse use this
+
+
+		// Celling
+		$a = 5.3;
+		echo ceil($a);
 
 
 		?>
