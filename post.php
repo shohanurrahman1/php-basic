@@ -15,7 +15,7 @@
             <h1 class="text-center py-5">User Information</h1>
 
             <!-- Form Start -->
-            <form action="" method="">
+            <form action="" method="POST">
               <div class="mb-3">
                 <label class="form-label">First Name</label>
                 <input type="text" name="fname" class="form-control" required autocomplete="off">
@@ -41,6 +41,15 @@
               </div>
             </form>
             <!-- Form End -->
+
+            <?php  
+
+              if (isset($_POST['btn'])) 
+              {
+                echo "Hello My Boi";
+              }
+
+            ?>
 
             
           </div>
